@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GT-3m-1</string>
+    <string name="email">Email</string>
+    <string name="brief">Brief</string>
+    <string name="theme">Theme</string>
+    <string name="send">Send</string>
+</resources>
